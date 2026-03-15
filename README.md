@@ -27,8 +27,11 @@ Des paires objets sont également présentes dans le plateau !
 - Cœur : Si vous trouvez cette paire, vous récupérez un point de vie
 - Torche : Si vous trouvez cette paire, la paire d'attaque se transforme en paire d'attaque spéciale pour infliger plus de dégâts si trouvée
 <br /><br />
+
 Lorsque vous trouvez une paire d'attaque, le plateau se mélange à nouveau. Les objets sont donc à nouveau trouvables.<br />
 Attention ! Cela signifie aussi que les cartes ennemis sont également mélangées à nouveau avec les autres cartes.<br /><br /><br />
+
+
 Précision : 
 - Les cartes ennemis sont les cartes de l'ennemi du niveau actuel.
 - Faites attention ! L'ennemi change à chaque niveau, donc les cartes ennemis aussi ! Ne confondez pas les cartes de l'ennemi du niveau actuel et les autres cartes !
