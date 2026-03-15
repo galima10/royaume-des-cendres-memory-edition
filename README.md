@@ -23,7 +23,7 @@ Un plateau de 16 cartes sont disposés.<br />
 Trouvez la paire d'attaque pour infliger des dégâts aux ennemies.<br /><br />
 Attention !<br />
 Si vous tombez sur une carte de l'ennemi, c'est lui qui vous infligera des dégâts !<br /><br />
-Des paires objets sont également présentes dans le plateau :
+Des paires objets sont également présentes dans le plateau !
 - Cœur : Si vous trouvez cette paire, vous récupérez un point de vie
 - Torche : Si vous trouvez cette paire, la paire d'attaque se transforme en paire d'attaque spéciale pour infliger plus de dégâts si trouvée
 <br /><br />
